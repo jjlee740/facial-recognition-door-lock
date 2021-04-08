@@ -1,6 +1,6 @@
 # Facial Recognition Door Lock System
 
-Created as the final project of an embedded systems course, this facial recognition door lock system is is used to trigger the unlocking or locking of an electric door lock using an user's face as the password.
+Created as the final project of an embedded systems course (CMPT433 with Dr. Brian Fraser), this facial recognition door lock system is is used to trigger the unlocking or locking of an electric door lock using an user's face as the password.
 
 
 [Photo of the system in action](https://i.imgur.com/f8x9k4h.png)
