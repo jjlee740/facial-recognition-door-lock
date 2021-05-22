@@ -17,7 +17,7 @@ Once a picture has been taken by either a loud sound detected by the microphone 
 
 ## Credits
 
-JJ Lee: Node.js web page and server developer, embedded developer of the microphone, camera and door lock mechanisms.
+JJ Lee: Web application developer, embedded developer of the microphone, camera and door lock mechanisms.
 
 Parker Tian: Developer of the door lock mechanisms, tester.
 
